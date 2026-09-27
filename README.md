@@ -78,7 +78,14 @@ offline-sync-conflict/
 │   ├── server.js
 │   └── swagger.js
 │
-├── .env
+├── screenshots/
+│   ├── 01-create-document.png
+│   ├── 02-successful-sync.png
+│   ├── 03-conflict-detection.png
+│   ├── 04-client-wins.png
+│   ├── 05-swagger-api.png
+│   └── 06-duplicate-sync.png
+│
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
